@@ -1,1 +1,2 @@
 # vhelp1
+It is an online volunteering system where volunteers and requesters can interact with each other.volunteers can register for the services they can perform like blood donation ,food donation,charity etc..requesters can request for the specific service they want.I f the volunteer can perform the request they can accept and service on the site.They will get notified about it through notification.It have 5 module Admin,Requester,Volunteer,Department,Emergency Requester.
